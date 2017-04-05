@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
+
+A: it is where you can bundle the files you want to add in the repository. you can remove a file in the stagin area as well.
+
 What value do you think it offers?
+A: it offers more flexible options to add or not add certain files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
